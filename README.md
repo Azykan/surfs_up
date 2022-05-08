@@ -1,6 +1,7 @@
 # Surfs_up :call_me_hand:
 
-- Climate analysis for Oahu, Hawaii surf shop using jupyter
+- Climate analysis for Oahu, Hawaii , in order to determine if a surf and ice cream shop business is sustainable year-round.
+- Using Python, Pandas functions and methods, SQLAlchemy and Matplotlib.
 
 # Purpose
 - Explain the structures, interactions, and types of data of a provided dataset.
